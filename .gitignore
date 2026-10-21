@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 工具目录（yt-dlp / ffmpeg / whisper-venv / 模型 / 缓存 / cookie / 环境标记）
+tools/
+
+# 环境变量与密钥
+.env
+bili_cookie.txt
